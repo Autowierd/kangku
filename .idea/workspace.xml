@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2b3c398-273f-4305-a3e5-7873d98a1c33" name="Default Changelist" comment="测试2">
-      <change afterPath="$PROJECT_DIR$/demo-one/src/手动阀.java" afterDir="false" />
-    </list>
+    <list default="true" id="b2b3c398-273f-4305-a3e5-7873d98a1c33" name="Default Changelist" comment="尝试第二次提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +59,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试2" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试2" />
+    <MESSAGE value="尝试第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试第二次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="95" key="#Project_Structure" timestamp="1629556590113">
